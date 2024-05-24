@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning in Tianjin Normal University.
-- - 👯 I like to play pingpong.
+- 👯 I like to play pingpong.
